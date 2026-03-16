@@ -63,7 +63,7 @@ namespace Helis.Files.Sorter.Impl
 
             if (_data != null)
             {
-                ArrayPool<string>.Shared.Return(_data);
+                ArrayPool<string>.Shared.Return(_data, clearArray: true);
             }
 
             _disposed = true;

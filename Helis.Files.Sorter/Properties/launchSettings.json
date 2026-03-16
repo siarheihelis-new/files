@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Helis.Files.Sorter": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Dev\\3dEYE\\Helis.Files\\test\\test_file.txt sorted.txt"
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}

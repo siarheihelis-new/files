@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Helis.Files.Benchmarks/Helis.Files.Benchmarks.csproj" Id="702ede36-85d9-4c98-b2fa-192248ae4e51" />
+    <Project Path="Helis.Files.Tests/Helis.Files.Tests.csproj" Id="0b0c5b81-71b4-439a-86cc-a659e1f7f483" />
+  </Folder>
+  <Project Path="Helis.Files.Generator/Helis.Files.Generator.csproj" />
+  <Project Path="Helis.Files.Sorter/Helis.Files.Sorter.csproj" />
+</Solution>
